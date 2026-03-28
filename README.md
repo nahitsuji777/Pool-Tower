@@ -1,6 +1,6 @@
 # Pool-Tower
 <p align="center">
   <span style="color:#FFD700; font-weight:bold;">
-    The tower ascends beyond mortal limits.
+    給到夯爆了
   </span>
 </p>
